@@ -3,11 +3,11 @@
 - Customer Detail – Customer-level sales analysis and segmentation
 - Product Detail – Product performance, category contribution, and trends
 ### Executive Dashboard
-![Executive Dashboard](screenshots/exec_dashboard.png)
+![Executive Dashboard](screenshots/Exec_Dashboard.png)
 
 ### Customer Detail
-![Customer Detail](screenshots/customer_detail.png)
+![Customer Detail](screenshots/Customer_Cetail.png)
 
 ### Product Detail
-![Product Detail](screenshots/product_detail.png)
+![Product Detail](screenshots/Product_Detail.png)
 
