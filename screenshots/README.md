@@ -6,7 +6,7 @@
 ![Executive Dashboard](Exec_Dashboard.png)
 
 ### Customer Detail
-![Customer Detail](Customer_Cetail.png)
+![Customer Detail](Customer_Detail.png)
 
 ### Product Detail
 ![Product Detail](Product_Detail.png)
